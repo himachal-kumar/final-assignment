@@ -1,0 +1,16 @@
+{
+  "/api/campaigns/route": "app/api/campaigns/route.js",
+  "/campaign/[id]/page": "app/campaign/[id]/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/campaigns/page": "app/admin/campaigns/page.js",
+  "/api/admin/campaigns/create/route": "app/api/admin/campaigns/create/route.js",
+  "/api/users/route": "app/api/users/route.js",
+  "/admin/funding-plans/page": "app/admin/funding-plans/page.js",
+  "/api/funding-plans/route": "app/api/funding-plans/route.js",
+  "/api/admin/funding-plans/route": "app/api/admin/funding-plans/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/campaign/page": "app/campaign/page.js",
+  "/api/campaigns/[id]/route": "app/api/campaigns/[id]/route.js",
+  "/api/razorpay/create/route": "app/api/razorpay/create/route.js"
+}
